@@ -1,29 +1,88 @@
 🚀 Interview-150 Questions Repository 🚀
 Welcome to the Interview-150 Questions repository! This project is dedicated to solving the top 150 coding problems commonly asked in technical interviews at leading tech companies like Google, Amazon, Microsoft, and more. Whether you're prepping for an interview or sharpening your problem-solving skills, this repository is your go-to resource! 💻
 
-Welcome to my Interview-150 Questions repository! This project is dedicated to solving the top 150 coding questions frequently asked in technical interviews by leading companies like Google, Amazon, Microsoft, and more.
+🌟 Objective
+The goal of this repository is to provide clear, concise, and well-documented solutions to 150 must-know interview questions across a wide variety of DSA topics.
 
-##### Objective:
-The goal of this repository is to provide well-explained solutions to 150 essential coding problems, covering a wide range of topics. It serves as a resource for anyone preparing for coding interviews, with a strong focus on problem-solving skills and mastering key concepts.
+🧠 Topics Covered
+Here's what you can expect in this repository:
 
-##### Topics Covered:
-Arrays & Strings: Problem-solving strategies for one-dimensional and multi-dimensional arrays, string manipulation, and more.
-Linked Lists: In-depth questions on singly and doubly linked lists, cycle detection, and list manipulation.
-Stacks & Queues: Mastering the implementation and problem-solving techniques using stacks, queues, and priority queues.
-Trees & Graphs: Understanding tree traversals, binary trees, binary search trees, and common graph algorithms like BFS and DFS.
-Dynamic Programming: Solving complex problems using memoization and bottom-up approaches.
-Recursion & Backtracking: Questions designed to enhance your recursive problem-solving and optimization skills.
-Greedy Algorithms: Strategies to find optimal solutions using a greedy approach.
-Sorting & Searching: Essential sorting algorithms and searching techniques for solving key problems efficiently.
-Mathematical Problems: Common number theory and math-related problems that frequently appear in interviews.
-Bit Manipulation: Practice questions focusing on using bits to solve tricky algorithmic challenges.
-Achievements:
+Arrays & Strings
+🧩 Classic problems on arrays and string manipulation.
 
-Solved 150 must-know coding interview questions with detailed explanations.
-Focused on time complexity and space optimization for every solution.
-Built a structured problem-solving strategy for real-world coding interviews.
-Goals:
+Linked Lists
+🔗 Mastery of singly/doubly linked lists and cycle detection.
 
-Improve Interview Readiness: By solving these 150 questions, I aim to be thoroughly prepared for technical coding interviews.
-Enhance Coding Efficiency: Work on improving my speed and accuracy in solving algorithmic problems.
-Contribute to the Coding Community: Provide clear, optimized solutions with comments and explanations to help others who are also preparing for interviews.
+Stacks & Queues
+📚 Implementation of stacks, queues, and priority queues.
+
+Trees & Graphs
+🌳 Traversal techniques, binary search trees, and graph algorithms (BFS, DFS).
+
+Dynamic Programming
+🚀 Optimization techniques using memoization and bottom-up approaches.
+
+Recursion & Backtracking
+🔄 Powerful problem-solving using recursion and backtracking.
+
+Greedy Algorithms
+💡 Optimal solutions with the greedy approach.
+
+Sorting & Searching
+🔍 Efficient sorting and searching algorithms for rapid solutions.
+
+Mathematical Problems
+🧮 Frequently encountered number theory problems.
+
+Bit Manipulation
+🧠 Clever solutions using bits for tricky problems.
+
+🏆 Achievements
+💡 Solved 150 essential coding interview questions with detailed explanations.
+📏 Focused on optimizing solutions for time and space complexity.
+💼 Ready for real-world technical interviews with a structured problem-solving approach.
+🎯 Goals
+💪 Improve Interview Readiness: Complete the most frequently asked coding problems to enhance technical interview preparation.
+⏳ Enhance Coding Efficiency: Focus on solving problems with optimal time and space complexity.
+🌍 Contribute to the Coding Community: Provide clean, well-documented code with explanations for others preparing for interviews.
+
+📂 Repository Structure
+
+📁 Interview-150-Questions/
+│
+├── 📂 Arrays/
+│   └── ArrayProblem1.md
+│
+├── 📂 LinkedLists/
+│   └── LinkedListProblem1.md
+│
+├── 📂 Trees/
+│   └── TreeProblem1.md
+│
+├── 📂 DynamicProgramming/
+│   └── DPProblem1.md
+│
+└── ...
+Each folder contains:
+
+Problem Statement 💡: A brief description and link to the original problem.
+Solution 🔍: An explanation of the approach taken.
+Code 👨‍💻: Well-commented code with clean syntax.
+Complexity Analysis 🕒: Time and space complexity breakdown.
+📅 Daily Problem Tracker
+Date	Problem Solved	Link
+YYYY-MM-DD	Problem Name	Solution
+YYYY-MM-DD	Problem Name	Solution
+...	...	...
+🤝 How to Contribute
+We welcome contributions from the community! If you want to add a new problem, suggest improvements, or enhance existing solutions, feel free to submit a pull request.
+
+Steps to Contribute:
+🍴 Fork the repository.
+🌿 Create a new branch.
+🛠️ Add your changes (solutions, enhancements, etc.).
+🔁 Submit a pull request.
+📜 License
+This repository is licensed under the MIT License. Feel free to use the code and contribute to the project!
+
+Happy Coding! 😄🚀
